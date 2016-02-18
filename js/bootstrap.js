@@ -450,7 +450,7 @@ if (typeof jQuery === 'undefined') {
             that.$element.trigger(slidEvent)
           }, 0)
         })
-        .emulateTransitionEnd(Carousel.TRANSITION_DURATION)
+        .emulateTransitionEnd(2000)
     } else {
       $active.removeClass('active')
       $next.addClass('active')
