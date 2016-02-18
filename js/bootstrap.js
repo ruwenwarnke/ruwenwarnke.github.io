@@ -450,7 +450,7 @@ if (typeof jQuery === 'undefined') {
             that.$element.trigger(slidEvent)
           }, 0)
         })
-        .emulateTransitionEnd(2000)
+        .emulateTransitionEnd(1600)
     } else {
       $active.removeClass('active')
       $next.addClass('active')
