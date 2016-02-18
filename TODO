@@ -6,5 +6,5 @@
 3. js bauen, die Elemente mit falschem Tag ausblendet
 4. js erweitern mit event listener, der im Carousel nur die Elemtente mit richtigem Tag anzeigt.
 5. randomize  items
-
+6. slider timer von 1,6 auf 1 sec runter!? ausprobieren
 
