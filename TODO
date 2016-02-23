@@ -1,10 +1,10 @@
 
 1. echte Links im menü rechts einfügen
-2. filter für Carousel bauen:
-	jedes Element mit tag versehen (class: gif, photo, interior design, Videos)
-	auch Thematisch?
-3. js bauen, die Elemente mit falschem Tag ausblendet
-4. js erweitern mit event listener, der im Carousel nur die Elemtente mit richtigem Tag anzeigt.
-5. randomize  items
-6. slider timer von 1,6 auf 1 sec runter!? ausprobieren
-7. favicon online einbauen
+2. Chrome optimieren
+3. warum brauch ich 2mal: jquery.min.js
+4. CSS aus index rausnehmen
+5. javascript aus index rausnehmen
+6. image size?
+7. brauchen wir die Punkte unten und die Pfeile?
+8. randomize  items
+9. favicon online einbauen
