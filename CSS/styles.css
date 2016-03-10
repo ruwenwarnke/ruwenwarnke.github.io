@@ -34,6 +34,7 @@ i {
 .navbar-brand{
 	color: white!important;
 	position: absolute;
+	font-family: MinionPro-Regular;	
     width: 100%;
     left: 45%;
     margin: auto;
