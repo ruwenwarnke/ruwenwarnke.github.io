@@ -1,5 +1,6 @@
 body { 
 	margin: 0; background: #000;
+	font-size: 3.94em;
 }
 
 video { 
@@ -41,6 +42,7 @@ i {
     	left: 45%;
     	margin: auto;
     	margin-left: 48%;
+    	font-size: 1em;
 }
 
 
