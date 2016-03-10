@@ -34,10 +34,11 @@ i {
 .navbar-brand{
 	color: white!important;
 	position: absolute;
-    width: 100%;
-    left: 45%;
-    margin: auto;
-    margin-left: 48%;
+	font-family: MinionPro-Regular;
+    	width: 100%;
+    	left: 45%;
+    	margin: auto;
+    	margin-left: 48%;
 }
 
 
